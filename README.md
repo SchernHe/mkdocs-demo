@@ -1,8 +1,6 @@
 # mkdocs-demo
 
-
 Demo repository to setup mkdocs. This demo is based on [this youtube tutorial](https://www.youtube.com/watch?v=Q-YA_dA8C20). More information can be found in the [mkdocs-material documentation](https://squidfunk.github.io/mkdocs-material/).
-
 
 <!-- vscode-markdown-toc -->
 * 1. [Install](#Install)
@@ -14,6 +12,8 @@ Demo repository to setup mkdocs. This demo is based on [this youtube tutorial](h
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
+
+---
 
 ##  1. <a name='Install'></a>Install
 
@@ -36,3 +36,10 @@ mkdocs build
 ```
 
 ##  3. <a name='PublishingDocumentation'></a>Publishing Documentation
+
+Documentation will be hosted via GitHub-Pages either by updating the documentation manually with:
+```console
+mkdocs gh-deploy
+```
+
+or using the GitHub CI (Actions).
