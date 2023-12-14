@@ -25,3 +25,11 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/SchernHe/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hendrik-scherner/
