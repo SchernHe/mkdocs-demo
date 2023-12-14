@@ -1,5 +1,6 @@
 
-# Test page 1
+# Test Page 1
+
 This is a test page that should be visualized / displayed in the MK docs demo.
 
 <!-- vscode-markdown-toc -->

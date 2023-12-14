@@ -26,10 +26,16 @@ theme:
       primary: teal
       accent: lime
 
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/SchernHe/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/hendrik-scherner/
+
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.superfences
