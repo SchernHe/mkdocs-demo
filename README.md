@@ -42,4 +42,4 @@ Documentation will be hosted via GitHub-Pages either by updating the documentati
 mkdocs gh-deploy
 ```
 
-or using the GitHub CI (Actions).
+or using the GitHub CI (Actions). The published documentation can be found [here](https://schernhe.github.io/mkdocs-demo/).
