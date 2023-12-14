@@ -9,6 +9,7 @@ packages = [ {include = "mkdocs_demo", from = "src"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.2"
 
 
 [build-system]
